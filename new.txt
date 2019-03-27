@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 asdfasdfasdf
 11111111
 222222
+=======
+asdfasdfasdfdcccccccccccccc
+ddd3333
+>>>>>>> parent of 5120c1c... Update new.txt
